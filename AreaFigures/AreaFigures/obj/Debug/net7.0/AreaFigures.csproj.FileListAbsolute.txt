@@ -1,0 +1,11 @@
+C:\Users\Даниил\source\repos\AreaFigures\AreaFigures\bin\Debug\net7.0\AreaFigures.deps.json
+C:\Users\Даниил\source\repos\AreaFigures\AreaFigures\bin\Debug\net7.0\AreaFigures.dll
+C:\Users\Даниил\source\repos\AreaFigures\AreaFigures\bin\Debug\net7.0\AreaFigures.pdb
+C:\Users\Даниил\source\repos\AreaFigures\AreaFigures\obj\Debug\net7.0\AreaFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\source\repos\AreaFigures\AreaFigures\obj\Debug\net7.0\AreaFigures.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\AreaFigures\AreaFigures\obj\Debug\net7.0\AreaFigures.AssemblyInfo.cs
+C:\Users\Даниил\source\repos\AreaFigures\AreaFigures\obj\Debug\net7.0\AreaFigures.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\AreaFigures\AreaFigures\obj\Debug\net7.0\AreaFigures.dll
+C:\Users\Даниил\source\repos\AreaFigures\AreaFigures\obj\Debug\net7.0\refint\AreaFigures.dll
+C:\Users\Даниил\source\repos\AreaFigures\AreaFigures\obj\Debug\net7.0\AreaFigures.pdb
+C:\Users\Даниил\source\repos\AreaFigures\AreaFigures\obj\Debug\net7.0\ref\AreaFigures.dll
